@@ -1,1 +1,6 @@
 chmod +x run_pvt_char.sh ./run_pvt_char.sh
+
+module load LIBERATE
+submitjob
+qstat
+liberate_mx
